@@ -1,0 +1,15 @@
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\RFP-287\Regex-287\bin\Debug\net6.0\Regex-287.exe
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\RFP-287\Regex-287\bin\Debug\net6.0\Regex-287.deps.json
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\RFP-287\Regex-287\bin\Debug\net6.0\Regex-287.runtimeconfig.json
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\RFP-287\Regex-287\bin\Debug\net6.0\Regex-287.dll
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\RFP-287\Regex-287\bin\Debug\net6.0\Regex-287.pdb
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\RFP-287\Regex-287\obj\Debug\net6.0\Regex-287.csproj.AssemblyReference.cache
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\RFP-287\Regex-287\obj\Debug\net6.0\Regex-287.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\RFP-287\Regex-287\obj\Debug\net6.0\Regex-287.AssemblyInfoInputs.cache
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\RFP-287\Regex-287\obj\Debug\net6.0\Regex-287.AssemblyInfo.cs
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\RFP-287\Regex-287\obj\Debug\net6.0\Regex-287.csproj.CoreCompileInputs.cache
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\RFP-287\Regex-287\obj\Debug\net6.0\Regex-287.dll
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\RFP-287\Regex-287\obj\Debug\net6.0\refint\Regex-287.dll
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\RFP-287\Regex-287\obj\Debug\net6.0\Regex-287.pdb
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\RFP-287\Regex-287\obj\Debug\net6.0\Regex-287.genruntimeconfig.cache
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\RFP-287\Regex-287\obj\Debug\net6.0\ref\Regex-287.dll

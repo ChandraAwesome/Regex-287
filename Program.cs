@@ -1,37 +1,24 @@
-﻿using System;
-using System.Text.RegularExpressions;
-
-namespace Regex_287
+﻿namespace User_Registration_using_Regex
 {
-    public class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
-
-            aFollowedbyB regexmatch = new aFollowedbyB();
-            Console.WriteLine(regexmatch.Regex1Match("abbb"));
-
-            string Str = "abc_def_ghi_jkl mn_opq rstuvwxyz";
-            aFollowedbyB.Regexunderscore(Str);
-
-            Console.WriteLine(regexmatch.Regexwebsite("www.chandra.com") );
-            Console.WriteLine(regexmatch.Regeximages("awesome45.png")  ); 
-            /***************/
-            string Str1 = "<p>The <code>Regex</code> is a compiled representation of a regular expression.</p>";
-            aFollowedbyB.RegexHtml(Str1);
-            /***************/
-            string Str2 = "foxes are omnivorous mammals belonging to several general of the family Canidae fox.";
-            aFollowedbyB.Occurances(Str2);
+            //UC1
+            User_Registration Username = new User_Registration();
+            Console.WriteLine(Username.Check("Aja"));
+            //UC2
+            User_Registration lastname= new User_Registration();
+            Console.WriteLine(lastname.Checklast("Cha"));
+            //UC3
+            User_Registration mail= new User_Registration();
+            Console.WriteLine(mail.Checkemail("abc.xyz@bl.co.in"));
+            //UC4
+            User_Registration number= new User_Registration();
+            Console.WriteLine(number.Checkphone("91 9630261387"));
+            //UC[5_8]
+            User_Registration password= new User_Registration();
+            Console.WriteLine(password.Checkpassword("Ajay124@"));
         }
-
-        public static int Add(int num1, int num2)
-        {
-            var sum = num1 + num2;
-            return sum;
-        }
-
-        
-        
     }
 }
